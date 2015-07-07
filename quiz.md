@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Reyna
+Domonique
 
 ###What is your favorite color?
 
-Your answer goes here
+Blue
 
 ###Cats or Dogs?
 
-Your answer goes here
+Cat
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+It would just be illicit and not filled with work. Maybe DJ's involved and a boat.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Taylor Swift
